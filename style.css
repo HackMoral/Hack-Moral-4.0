@@ -1,0 +1,38 @@
+body {
+    background-image: url("WhatIsHackMoral4.0.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    font-family: "Mulish";
+}
+
+.home {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 45%;
+    color: white;
+    height: 50%;
+}
+.home_heading {
+    text-align: center;
+    color: #65f0de;
+}
+
+.home_dis1 {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.home_dis2 {
+    margin-top: 3%;
+    text-align: center;
+}
+
+/* Light Blue  - #0dc8fe 
+Dark Blue   - #010f2b
+Light Green - #65f0de
+BG Blue     - #020A1F */
